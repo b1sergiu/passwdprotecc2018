@@ -1,0 +1,14 @@
+c:\users\sergiu bucur\documents\visual studio 2013\Projects\Passwd Protecc 2018\Passwd Protecc 2018\bin\Debug\Passwd Protecc 2018.exe.config
+c:\users\sergiu bucur\documents\visual studio 2013\Projects\Passwd Protecc 2018\Passwd Protecc 2018\bin\Debug\Passwd Protecc 2018.exe
+c:\users\sergiu bucur\documents\visual studio 2013\Projects\Passwd Protecc 2018\Passwd Protecc 2018\bin\Debug\Passwd Protecc 2018.pdb
+c:\users\sergiu bucur\documents\visual studio 2013\Projects\Passwd Protecc 2018\Passwd Protecc 2018\bin\Debug\Passwd Protecc 2018.xml
+c:\users\sergiu bucur\documents\visual studio 2013\Projects\Passwd Protecc 2018\Passwd Protecc 2018\obj\Debug\Passwd_Protecc_2018.Form1.resources
+c:\users\sergiu bucur\documents\visual studio 2013\Projects\Passwd Protecc 2018\Passwd Protecc 2018\obj\Debug\Passwd_Protecc_2018.Resources.resources
+c:\users\sergiu bucur\documents\visual studio 2013\Projects\Passwd Protecc 2018\Passwd Protecc 2018\obj\Debug\Passwd Protecc 2018.vbproj.GenerateResource.Cache
+c:\users\sergiu bucur\documents\visual studio 2013\Projects\Passwd Protecc 2018\Passwd Protecc 2018\obj\Debug\Passwd Protecc 2018.exe
+c:\users\sergiu bucur\documents\visual studio 2013\Projects\Passwd Protecc 2018\Passwd Protecc 2018\obj\Debug\Passwd Protecc 2018.xml
+c:\users\sergiu bucur\documents\visual studio 2013\Projects\Passwd Protecc 2018\Passwd Protecc 2018\obj\Debug\Passwd Protecc 2018.pdb
+c:\users\sergiu bucur\documents\visual studio 2013\Projects\Passwd Protecc 2018\Passwd Protecc 2018\bin\Debug\Passwd Protecc 2018.exe.manifest
+c:\users\sergiu bucur\documents\visual studio 2013\Projects\Passwd Protecc 2018\Passwd Protecc 2018\bin\Debug\Passwd Protecc 2018.application
+c:\users\sergiu bucur\documents\visual studio 2013\Projects\Passwd Protecc 2018\Passwd Protecc 2018\obj\Debug\Passwd Protecc 2018.exe.manifest
+c:\users\sergiu bucur\documents\visual studio 2013\Projects\Passwd Protecc 2018\Passwd Protecc 2018\obj\Debug\Passwd Protecc 2018.application
